@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apacheCommonsLog/apacheCommonsLog.iml" filepath="$PROJECT_DIR$/apacheCommonsLog/apacheCommonsLog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logframework.iml" filepath="$PROJECT_DIR$/logframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slf4jLog4j/slf4jLog4j.iml" filepath="$PROJECT_DIR$/slf4jLog4j/slf4jLog4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slf4jLogback/slf4jLogback.iml" filepath="$PROJECT_DIR$/slf4jLogback/slf4jLogback.iml" />
+    </modules>
+  </component>
+</project>
